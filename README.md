@@ -18,8 +18,8 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 It is the Starbuck's Capstone Challenge of the Data Scientist Nanodegree in Udacity. We get the dataset from the program that creates the data simulates how people make purchasing decisions and how those decisions are influenced by promotional offers. We want to make a recommendation engine that recommends Starbucks which offer should be sent to a particular customer.
 
 We are interested to answer the following two questions:
-1. Which offer should be sent to a particular customer to let the customer buy more?
-2. Which demographic groups respond best to which offer type?
+1. How Many of them completed the offers and viewed?
+2. Based on Gender which offer they like?
 
 
 ## File Descriptions <a name="files"></a>
